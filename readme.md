@@ -17,7 +17,7 @@
 <h3>1. Clone the repository:</h3>
 
 ```
-git clone https://github.com/ThomasJanssen-tech/Retrieval-Augmented-Generation.git
+git clone https://github.com/qiangone/Retrieval-Augmented-Generation.git
 cd Retrieval-Augmented-Generation
 ```
 
